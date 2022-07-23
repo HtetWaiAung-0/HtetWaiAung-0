@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HtetWaiAung-0
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me htetwaiaung1236@gmail.com
+- 📫 How to reach me -> htetwaiaung1236@gmail.com
 
 <!---
 HtetWaiAung-0/HtetWaiAung-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
