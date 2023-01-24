@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HtetWaiAung-0
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently working with shell script, C, java, python, php.
 - 📫 How to reach me -> htetwaiaung1236@gmail.com
 
 <!---
